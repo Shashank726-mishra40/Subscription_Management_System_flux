@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Brightloop Software — Subscription Management System
 
 A professional, production-ready enterprise **Subscription Management System**, **Finance Intelligence Dashboard**, and **Customer Self-Service Portal** engineered for **Brightloop Software**. Built using React 18, TypeScript, Vite, Tailwind CSS, React Router v6, and Lucide React icons.
@@ -333,3 +334,6 @@ src/
 ---
 
 *Engineered with precision for Brightloop Software.*
+=======
+# Subscription_Management_System_flux
+>>>>>>> origin/main
